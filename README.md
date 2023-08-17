@@ -33,7 +33,7 @@ Follow these steps to deploy the ChatGPT Bot with Spring Boot:
 
 ### Prerequisites
 
-- Java Development Kit (JDK) 19
+- Java Development Kit (JDK) 11 or higher
 - OpenAI API key (sign up at https://beta.openai.com/signup/)
 
 ### Installation
