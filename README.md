@@ -40,8 +40,8 @@ Follow these steps to deploy the ChatGPT Bot with Spring Boot:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/chatgpt-bot.git
-   cd chatgpt-bot-spring-boot
+   git clone https://github.com/DuskoAtanasovski/chatgpt-bot.git
+   cd chatgpt-bot
    ```
 
 2. Build the Spring Boot application:
